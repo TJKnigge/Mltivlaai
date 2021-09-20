@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Mltivlaai, Configuration: Debug Any CPU ------
+1>Mltivlaai -> C:\Users\Sierra 1\source\repos\Mltivlaai\Mltivlaai\bin\Debug\netcoreapp3.1\Mltivlaai.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
